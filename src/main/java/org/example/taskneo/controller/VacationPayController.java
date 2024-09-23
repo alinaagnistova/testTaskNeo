@@ -1,7 +1,6 @@
 package org.example.taskneo.controller;
 
 import jakarta.validation.Valid;
-import jakarta.validation.constraints.Min;
 import org.example.taskneo.model.Account;
 import org.example.taskneo.service.VacationPayService;
 import org.springframework.validation.annotation.Validated;
